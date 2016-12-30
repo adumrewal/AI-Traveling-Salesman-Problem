@@ -1,4 +1,4 @@
-//This code belongs to Amol Dumrewal and Mithil Leua
+//This code belongs to Amol Dumrewal
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
